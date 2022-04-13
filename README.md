@@ -8,7 +8,7 @@ The notebook contains the back-end analysis for the data report for Uber and Lyf
 *  Access the colab notebook at: https://colab.research.google.com/drive/1iXoZQQrO4wTnl38211izi8-Ft9Awenf_?usp=sharing
 ## Installation/ Set Up
 * Use a desktop or laptop, phone or tablet.
-* To install, copy the link to this repository https:// and clone the repository with the git clone command in the terminal
+* To install, copy the link to this repository [https://github.com/TabithaWKariuki/ULA.git] and clone the repository with the git clone command in the terminal
 ## Technologies Used
 * Jupyter notebook (Python)
 ## Support and contact details
